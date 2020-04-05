@@ -1,0 +1,3 @@
+# StarmieLogViewer
+
+Another WIP project
